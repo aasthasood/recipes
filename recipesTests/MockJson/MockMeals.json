@@ -1,0 +1,19 @@
+{
+    "meals": [
+        {
+            "strMeal": "Bakewell tart",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg",
+            "idMeal": "52767"
+        },
+        {
+            "strMeal": "Chinon Apple Tarts",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg",
+            "idMeal": "52910"
+        },
+        {
+            "strMeal": "Apple & Blackberry Crumble",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg",
+            "idMeal": "52893"
+        }
+    ]
+}
